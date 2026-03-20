@@ -1,0 +1,88 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Haute Ecole He-Arc
+  url: "https://www.he-arc.ch/en/engineering/research-groups/imaging/"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I have started becoming a software engineer because of 3D, and now I have 3 years of working experience with 3D.
+          You may ask me why the domain of 3D attracts me, and the answer is simple: the complexity of having proper code
+          that runs in real time is what excites me. You not only have a problem to solve, but you also need to make it as simple as possible so it can run
+          in real time, and all these "tricks" to make it run faster are really interesting.
+
+          Recently, I started working with a motion system and discovered the world of 3D animation, in which I am currently working at my job.
+          Sometimes, I develop games in Unreal and Unity and participate in game jams. In my free time, I like to play card games.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "ivs21072@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+
+
+badges:
+- type: certification
+  name: Last year in Sherbrooke
+  badge: "https://i0.wp.com/theartofbusinessenglish.com/wp-content/uploads/2019/02/preparar-first-certificate.png?fit=750%2C460&amp;ssl=1"  
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://yt3.googleusercontent.com/7Cl2wU6IMbRdrOw-BmVgJw8lNpXtcdg4QEYDhC21WPHisOCkIuhN6rahTxCR_1ytUpnM-o9Y=s900-c-k-c0x00ffffff-no-rj"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  badge: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZn29D-qXNuckdqRFC8tl8IEXvB3gWSiRSQ&s"
+
+
+- type: soft-skill-indicator
+  # name: Team Work
+  name: French
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  # name: Leadership
+  name: Spanish
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  # name: Hard Working
+  name: English
+  percentage: 85
+  color: orange
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

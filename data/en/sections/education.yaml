@@ -1,0 +1,53 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+degrees:
+- name: Bachelor of Science HES-SO in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2020-2023
+  institution:
+    name: Haute Ecole He-Arc
+    url: "https://www.he-arc.ch/"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade: #(optional)
+    scale: CGPA
+    achieved: 5.5
+    outOf: 6
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+  extracurricularActivities: #(optional), supports markdown
+  - Last year in Canada as part of the ERASMUS+ program.
+  - Participation in the development of a 3D game project with ubisoft in Sherbrooke.
+
+- name: Certificate of Capacity in Computer Science (CFC)
+  icon: fa-graduation-cap
+  timeframe: 2017-2020
+  institution:
+    name: CEFF (centre de formation professionnelle Berne Francophone)
+    url: "https://www.ceff.ch/ceff"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade: #(optional)
+    scale: CGPA
+    achieved: 5.5
+    outOf: 6
+  customSections: #(optional)
+    - name: Bilingual
+      content: 50/50 French and English
+    - name: First Certificate in English
+      content: Achieved in 2020 with a score of 170/190
