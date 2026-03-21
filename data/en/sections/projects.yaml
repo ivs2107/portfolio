@@ -27,7 +27,7 @@ projects:
   image : images/projects/Motion-Lab_1.jpg
   # url: ""
   summary: A motion capture system developed for the research group of Imaging at HE-ARC, designed to capture and analyze human movement for applications in biomechanics, sports science, and rehabilitation.
-  tags: ["professional", "Motion Capture", "3D animations", "3D Graphics"]
+  tags: ["professional", "Motion Capture", "3D animations", "3D"]
 
 
 - name: Nier Automata unity remake
@@ -38,7 +38,7 @@ projects:
   image: images/projects/NierAutomata.png
   # url: ""
   summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
-  tags: ["hobby", "C#", "Unity", "2D", "Computer Graphics" ]
+  tags: ["hobby", "C#", "Unity", "2D", "Game Development" ]
 
 
 # - name: Assist in teaching the course of Java Programming
@@ -103,7 +103,7 @@ projects:
   image : images/projects/TheMask.png
   # url: ""
   summary: The Mask Project is a project focused on developing 2D game with server and client architecture. The game is a turn based game. The project was developed using Unity and C#. The project was continued in a hobby, to play with my friends.
-  tags: ["academic", "hobby","C#", "Unity", "3D", "Computer Graphics","2D", "Server" , "Client", "Game Development"]
+  tags: ["academic", "hobby","C#", "Unity", "Computer Graphics","2D", "Server" , "Client", "Game Development"]
 
 - name: Ubisoft Game Jam 
   logo: images/projects/kubernetes.png
@@ -113,7 +113,7 @@ projects:
   image : images/projects/UbisoftJam.png
   # url: ""
   summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
-  tags: ["academic", "C#", "Unity", "2D", "Computer Graphics", "Card Game"]
+  tags: ["academic", "C#", "Unity", "2D", "Retro", "ubisoft", "Game Development"]
 
 
 - name: Amnolia
@@ -123,7 +123,7 @@ projects:
   repo: https://www.youtube.com/watch?v=McpG79guR0g&pp=0gcJCcUKAYcqIYzv
   # url: ""
   summary: Amnolia is a project focused on developing 3D game with server and client architecture. The goal was to create my first 3D game im Unity. It is not fully completed yet, but the project was a great learning experience for me. The project was developed using Unity and C#.
-  tags: ["hobby", "C#", "Unity", "3D", "Computer Graphics", "Server" , "Client", "Game Development"]
+  tags: ["hobby", "C#", "Unity", "3D", "Server" , "Client", "Game Development"]
 
 
 - name: Hearthstone C# Unity
@@ -134,7 +134,7 @@ projects:
   image : images/projects/Hearthstone.png
   # url: ""
   summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
-  tags: ["academic", "C#", "Unity", "2D", "Computer Graphics", "Card Game"]
+  tags: ["academic", "C#", "Unity", "2D", "Card Game", "Game Development"]
 
 
 - name: Game Jam
@@ -145,7 +145,7 @@ projects:
   image : images/projects/GameJam.png
   # url: ""
   summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
-  tags: ["hobby", "C#", "Unity", "2D", "Computer Graphics"]
+  tags: ["hobby", "C#", "Unity", "2D","Game Development"]
 
 
 - name: Throne of Slimes
@@ -156,7 +156,7 @@ projects:
   image : images/projects/ThroneSlime.png
   # url: ""
   summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
-  tags: ["academic", "C#", "Unity", "2D", "Computer Graphics", "Card Game"]
+  tags: ["academic", "C#", "Unity", "2D", "puzzle","Game Development"]
 
 
 
