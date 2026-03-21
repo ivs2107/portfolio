@@ -86,7 +86,7 @@ projects:
 - name: SwissCollnet
   logo: images/projects/kubernetes.png
   role: Developper
-  timeline: "Mars 2024 - August 2024"
+  timeline: "February 2024 - August 2024"
   repo: https://he-arc.github.io/imagerie-portfolio/projects/2024_rnd_swisscollnet/
   image : images/projects/swisscollnet.png
   # url: ""
@@ -140,7 +140,7 @@ projects:
 - name: Game Jam
   logo: images/projects/kubernetes.png
   role: Developper
-  timeline: "September 2017 - February 2018"
+  timeline: "October 2022"
   repo: https://itch.io/jam/upsi-jam/rate/1548853
   image : images/projects/GameJam.png
   # url: ""
