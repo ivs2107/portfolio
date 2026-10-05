@@ -159,16 +159,16 @@ skills:
   # logo: /images/sections/skills/raytracing.png
   summary: "State machines used in games."
   categories: ["animation"]
-  url: ""
+  url: "#"
 
 - name:  Animation blending
   # logo: /images/sections/skills/raytracing.png
   summary: "Knowledge about animation for blend in and out."
   categories: ["animation"]
-  url: ""
+  url: "#"
 
 - name:  Retargeting
   # logo: /images/sections/skills/raytracing.png
   summary: "Retargeting using Unreal tools"
   categories: ["animation"]
-  url: ""
+  url: "#"
