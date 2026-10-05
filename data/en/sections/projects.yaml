@@ -37,8 +37,8 @@ projects:
   repo: https://youtu.be/SfO3Ds-El2c
   image: images/projects/NierAutomata.png
   # url: ""
-  summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
-  tags: ["hobby", "C#", "Unity", "2D", "Game Development" ]
+  summary: This game was made with the goal of learning Unreal Engine. I played a lot of Nier Automata and was fascinated to know how big games are made and wanted also to try in Unreal how they do that. I really wnated to challenge myself.
+  tags: ["hobby", "Blueprints", "Unreal", "3D", "Game Development" ]
 
 
 # - name: Assist in teaching the course of Java Programming
@@ -112,7 +112,7 @@ projects:
   repo: https://youtu.be/jgIqBRt-SDI
   image : images/projects/UbisoftJam.png
   # url: ""
-  summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
+  summary: Game made with 9 other Students and 2 mentors for the competition organised by Ubisoft in Quebec.
   tags: ["academic", "C#", "Unity", "2D", "Retro", "ubisoft", "Game Development"]
 
 
@@ -144,7 +144,7 @@ projects:
   repo: https://itch.io/jam/upsi-jam/rate/1548853
   image : images/projects/GameJam.png
   # url: ""
-  summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
+  summary: Game made in 48h and won an award by the jury.
   tags: ["hobby", "C#", "Unity", "2D","Game Development"]
 
 
@@ -155,7 +155,7 @@ projects:
   repo: https://www.youtube.com/watch?v=p6x8eGkBD-M
   image : images/projects/ThroneSlime.png
   # url: ""
-  summary: Hearthstone C# Unity is a project focused on developing a 2D card game. The goal was to create a game similar to Hearthstone. The project was developed using Unity and C#.
+  summary: Mobile game made with a team of students with the goal of creeating an original mobile game fun to play.
   tags: ["academic", "C#", "Unity", "2D", "puzzle","Game Development"]
 
 
