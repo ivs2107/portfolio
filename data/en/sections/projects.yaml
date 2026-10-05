@@ -37,7 +37,7 @@ projects:
   repo: https://youtu.be/SfO3Ds-El2c
   image: images/projects/NierAutomata.png
   # url: ""
-  summary: This game was made with the goal of learning Unreal Engine. I played a lot of Nier Automata and was fascinated to know how big games are made and wanted also to try in Unreal how they do that. I really wnated to challenge myself.
+  summary: This game was made with the goal of learning Unreal Engine. I played a lot of Nier Automata and was fascinated to know how big games are made and wanted also to try in Unreal how they do that. I really wanted to challenge myself.
   tags: ["hobby", "Blueprints", "Unreal", "3D", "Game Development" ]
 
 
