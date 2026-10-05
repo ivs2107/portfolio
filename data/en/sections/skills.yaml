@@ -27,6 +27,8 @@ buttons:
   filter: "parallel"
 - name: Rendering
   filter: "rendering"
+- name: Animation
+  filter: "animation"
 
 # Your Skills
 # font-size: large; .card-title
@@ -151,3 +153,22 @@ skills:
   summary: "Real-time 3D graphics development environment used for prototyping and testing rendering techniques in Python."
   categories: ["graphics"]
   url: "https://geeks3d.com/geexlab/"
+
+
+- name:  Animation state machines
+  # logo: /images/sections/skills/raytracing.png
+  summary: "State machines used in games."
+  categories: ["animation"]
+  url: ""
+
+- name:  Animation blending
+  # logo: /images/sections/skills/raytracing.png
+  summary: "Knowledge about animation for blend in and out."
+  categories: ["animation"]
+  url: ""
+
+- name:  Retargeting
+  # logo: /images/sections/skills/raytracing.png
+  summary: "Retargeting using Unreal tools"
+  categories: ["animation"]
+  url: ""
