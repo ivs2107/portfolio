@@ -125,7 +125,7 @@ I will go into detail on how my state animation machine works for character move
 ![Animation States](/images/nierautomata/AnimationStates.png)
 
 
-# Combo system
+## Combo system
 
 In Nier: Automata, you can chain light and heavy attacks to create combos, so I implemented something similar in the game. This lets players string moves together for more fluid and satisfying combat. 
 
@@ -144,7 +144,7 @@ In the attack we have a buffer of attacks so the user doesn't need to time it pe
 
 ![Light Attacks](/images/nierautomata/lightcombo.png)
 
-# AI
+## AI
 
 I implemented AI for melee enemies, ranged enemies, and even the boss. Each enemy has simple behaviors, like chasing the player, attacking, or launching a projectile.
 
@@ -154,7 +154,7 @@ We do this to have a more dynamic battle.
 
 ![Behavior Tree](/images/nierautomata/BehaviorTree2.png)
 
-# Berserk mode
+## Berserk mode
 
 Just like in Nier: Automata, I added a berserk mode where the player becomes faster, deals more damage, and can chain combos more quickly.
 
@@ -192,7 +192,7 @@ Then also he will gain stats like damage, movement speed also the animations are
   </div>
 </div>
 
-# Particles effects
+## Particles effects
 
 I used particle effects to experiment with Unreal’s systems and polish certain parts of the game, like explosions, hits, and other visual feedback. 
 
@@ -200,7 +200,7 @@ We do this using the Niagara system of unreal engine and touching certain parame
 
 ![Particle Effect](/images/nierautomata/ParticleEffect.png)
 
-# Cinematics
+## Cinematics
 
 Like every AAA I love cinematics so I also tried to understand how it works and implemented also in the game.
 
@@ -208,7 +208,7 @@ It is like video editing where you tell the camera when to be open or not, when 
 
 ![Particle Effect](/images/nierautomata/Cinematic.png)
 
-# AI Voice
+## AI Voice
 
 For the voice lines, I recreated the voice from Nier: Automata using AI voice generation and used it in the game. This allowed me to quickly generate dialogue and add more personality to some moments without needing to record voice actors for a fun project and keep the authencity of nier automata.
 
