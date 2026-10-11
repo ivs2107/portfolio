@@ -4,7 +4,8 @@
 >
   <div class="card mt-1">
     <div class="card">
-      <a href="{{ if .repo }}{{ .repo }}{{ else if .url }}{{ .url }}{{ else }}javascript:void(0){{ end }}" {{ if or .repo .url }}target="_blank" rel="noopener"{{ end }}>
+      <!--<a href="{{ if .repo }}{{ .repo }}{{ else if .url }}{{ .url }}{{ else }}javascript:void(0){{ end }}" {{ if or .repo .url }}target="_blank" rel="noopener"{{ end }}>-->
+      <a href="{{ if .url }}{{ .url }}{{ else if .repo }}{{ .repo }}{{ else }}javascript:void(0){{ end }}" {{ if or .repo .url }}target="_blank" rel="noopener"{{ end }}>
         {{ if .image }}
         <div class="card-head">
           {{ $imageImage:= resources.Get .image}}
@@ -73,7 +74,8 @@
               aria-label="Star {{ .name }}"
               >{{ i18n "project_star" }}</a
             >
-            {{ else if .url }}
+            {{ end }}
+            {{ if .url }}
             <span>
               <a
                 class="btn btn-outline-info btn-sm"
