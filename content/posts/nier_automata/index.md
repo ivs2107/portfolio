@@ -6,7 +6,7 @@ hero: "/images/nierautomata/title.png"
 menu:
   sidebar:
     name: Nier Automata Remake
-    identifier: Nier Automata Remake
+    identifier: nier_automata
     weight: 10
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
