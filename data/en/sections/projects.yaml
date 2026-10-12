@@ -30,7 +30,7 @@ projects:
   tags: ["professional", "Motion Capture", "3D animations", "3D"]
 
 
-- name: Nier Automata unity remake
+- name: Nier Automata Unreal remake
   logo: images/projects/kubernetes.png
   role: Developper
   timeline: "November 2024 - January 2026"
